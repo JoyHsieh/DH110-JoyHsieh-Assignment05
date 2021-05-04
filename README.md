@@ -36,4 +36,6 @@ I had a really hard time creating the wireframe in the beginning. I was overwhel
 The test itself didn't go as smoothly as expected, but I was glad that I was able to find a second particpant. I was glad that I was prepared to show them how to use Invision Freehand in the beginning. Next time, I want to write up the tasks and send it to the testers so they don't forget what they are trying to do.
 
 Based on these tests, I made the following change to my wireflow:
-- Have 
+- Allow users to share directly from the "My Stories" page, instead of  
+![lofi-updated](lofi-updated.png)
+
