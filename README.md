@@ -15,12 +15,25 @@ This low-fidelity prototype supports the following tasks:
 - Select a prompt to write about
 - Write a short story
 - View all written stories
-- Share a story
+- Share a story  
 
+This wireflow was created using Invision Freehand.
+![lofi-blank](lofi-blank.png)
 
 ## Wireflow Test
 ### Tester 1: Sharon
-View a video of her test [here](https://youtu.be/asl24TrzXhQ)
+Two issues came up during Sharon's test. First, her laptop died during the test so we had to redo one of the tasks. Second, she did not zoom out fully and did not see the full wireflow which led her to make choices that were not optimal. She did successfully complete the tasks in the end.  
+_View a video of her test [here](https://youtu.be/asl24TrzXhQ)._
+![lofi-blank](lofi-slam.png)
 
 ### Tester 2: Michelle
-View a video of her test [here](https://youtu.be/RV47VBmRFFw)
+I wanted to try the test again to hopefully run into fewer hiccups. This time, I made sure that Michelle was charging her laptop and showed her the full wireflow before she began. She did successfully complete the tasks in the end.  
+_View a video of her test [here](https://youtu.be/RV47VBmRFFw)._
+![lofi-blank](lofi-kaku.png)
+
+## Reflection
+I had a really hard time creating the wireframe in the beginning. I was overwhelmed by the number of tools available and the different modes of creation. I ultimately opted to use Invision Freehand because it is simple and I have used it before.  
+The test itself didn't go as smoothly as expected, but I was glad that I was able to find a second particpant. I was glad that I was prepared to show them how to use Invision Freehand in the beginning. Next time, I want to write up the tasks and send it to the testers so they don't forget what they are trying to do.
+
+Based on these tests, I made the following change to my wireflow:
+- Have 
