@@ -33,7 +33,7 @@ _View a video of her test [here](https://youtu.be/RV47VBmRFFw)._
 
 ## Reflection
 I had a really hard time creating the wireframe in the beginning. I was overwhelmed by the number of tools available and the different modes of creation. I ultimately opted to use Invision Freehand because it is simple and I have used it before.  
-The test itself didn't go as smoothly as expected, but I was glad that I was able to find a second particpant. I was glad that I was prepared to show them how to use Invision Freehand in the beginning. Next time, I want to write up the tasks and send it to the testers so they don't forget what they are trying to do.
+The test itself didn't go as smoothly as expected, but thankfully, I was able to find a second particpant. I was glad that I was prepared to show them how to use Invision Freehand in the beginning. Next time, I want to write up the tasks and send it to the testers so they don't forget what they are trying to do. Both testers were really helpful and made useful recommendations for changes, which I really appreciated!
 
 Based on these tests, I made the following change to my wireflow:
 - Add a banner or picture on each page so users know where they are on the site
@@ -42,4 +42,3 @@ Based on these tests, I made the following change to my wireflow:
 - Allow users to reach the "Share My Stories" page directly from the "My Stories" page, instead of going to the "Write My Story" page first
 - Add an "Edit" button to the "My Stories" page so users can still edit their stories before sharing
 ![lofi-updated](lofi-updated.png)
-
